@@ -9,8 +9,8 @@
 	<modules>
         <module>extjs</module>
         <!-- put extensions / modifications here -->
-        <module>cida-load</module>
-	 <module>notify</module>
+        <module>cida-load-ux</module>
+        <module>notify-ux</module>
 	</modules>
 
 	<name>ExtJS Parent</name>
