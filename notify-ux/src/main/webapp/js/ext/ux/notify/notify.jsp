@@ -1,6 +1,6 @@
 
-<link rel="stylesheet" type="text/css" href="js/ext/ux/notify/notify.css" />
-<script type="text/javascript" src="js/ext/ux/notify/notify.js"></script>
+<link rel="stylesheet" type="text/css" href="${param['relPath']}js/ext/ux/notify/notify.css" />
+<script type="text/javascript" src="${param['relPath']}js/ext/ux/notify/notify.js"></script>
 
 <script type="text/javascript">
     var NOTIFY;
