@@ -4,7 +4,7 @@
     <groupId>gov.usgs.cida.jslibs</groupId>
     <artifactId>extjs-parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.4.0-5-SNAPSHOT</version>
+    <version>3.4.0-5</version>
 
 	<modules>
         <module>extjs</module>
@@ -30,7 +30,7 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <connection>scm:svn:https://cida-svn.er.usgs.gov/repos/dev/js_lib/maven/extjs-parent/tags/extjs-parent-3.4.0-2</connection>
-        <developerConnection>scm:svn:https://cida-svn.er.usgs.gov/repos/dev/js_lib/maven/extjs-parent/tags/extjs-parent-3.4.0-2</developerConnection>
+        <connection>scm:svn:https://cida-svn.er.usgs.gov/repos/dev/js_lib/maven/extjs-parent/tags/extjs-parent-3.4.0-5</connection>
+        <developerConnection>scm:svn:https://cida-svn.er.usgs.gov/repos/dev/js_lib/maven/extjs-parent/tags/extjs-parent-3.4.0-5</developerConnection>
     </scm>
 </project>
