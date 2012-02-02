@@ -11,6 +11,7 @@
         <!-- put extensions / modifications here -->
         <module>cida-load-ux</module>
         <module>notify-ux</module>
+        <module>upload-ux</module>
 	</modules>
 
 	<name>ExtJS Parent</name>
